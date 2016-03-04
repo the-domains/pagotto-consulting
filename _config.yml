@@ -1,0 +1,28 @@
+name: Pagotto Consulting
+favicon: null
+layout_spectrum: 0.5397563511505723
+typography_spectrum: 0.8482115315273404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4108057259581983
+  lightness: 0.732266562525183
+  saturation: 0.5923949363641441
+  rhythmicContrast: 0.9826014111749828
+purpose: []
